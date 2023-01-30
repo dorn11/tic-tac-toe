@@ -1,7 +1,8 @@
 @media (min-width: 320px) and (max-width: 480px){
     #box {
-        padding-left: 7px;
+        padding-left: 0px;
         margin-top: 17px;
+        margin-left: -25px;
     }
     h2 {
         margin-top: 10px;
@@ -36,7 +37,7 @@
     .bTN {
         text-align: center;
         height: 30px;
-        width: 10px;
+        width: 150px;
         font-size: 10px;
         margin-left: 1%;
         font-size: large;
@@ -51,7 +52,7 @@
     .bTN {
         text-align: center;
         height: 30px;
-        width: 150px;
+        width: 200px;
         margin-left: 25%;
         font-size: large;
         border-radius: 15px;
