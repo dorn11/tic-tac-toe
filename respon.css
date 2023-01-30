@@ -31,7 +31,7 @@
         color: rgb(34, 31, 31);
     }
     #edit {
-        margin-left: 55px;
+        margin-left: 40px;
         margin-right: 20px;
     }
     .bTN {
@@ -53,7 +53,7 @@
         text-align: center;
         height: 30px;
         width: 200px;
-        margin-left: 25%;
+        margin-left: 5%;
         font-size: large;
         border-radius: 15px;
         background-color: #106128;
