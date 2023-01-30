@@ -13,7 +13,6 @@ h1{
     margin-top: 20px;
     text-align: center;
     text-decoration: underline;
-    font-family: cursive;
     font-size: 55px;
     color: rgb(0, 4, 255);
 }
@@ -21,16 +20,13 @@ h2{
     margin-top: 10px;
     text-align: center;
     text-decoration: underline;
-    font-family: cursive;
     font-size: 55px;
     color: rgb(230, 15, 51);
 }
 #result{
     text-align: center;
     font-size: 30px;
-    font-family: cursive;
-    font-weight: bolder ;
-    margin-top: -30px;
+    margin-top: 30px;
     color: rgb(214, 12, 23);
 }
 #box{
@@ -43,7 +39,6 @@ h2{
     border-width: thick;
     border-color: #7d7d7d;
     cursor: pointer;
-    font-size: xxx-large;
     color: rgb(34, 31, 31);
 }
 #edit{
@@ -52,23 +47,21 @@ h2{
 }
 .button{
     text-align: center;
-    height: 50px;
-    width: 152px;
-    font-size: large;
+    height: 150px;
+    width: 150px;
     border-radius: 15px;
     background-color: #e6e207;
     color: rgb(231, 6, 6);
     border-width: 2px;
     border-color: rgb(118, 124, 124);
-    margin-top: 10px;
+    /* margin-top: 10px; */
     cursor: pointer;
 }
 .bTN{
     text-align: center;
     height: 50px;
-    width: 152px;
+    width: 150px;
     margin-left: 1%;
-    font-size: large;
     border-radius: 15px;
     background-color: #106128;
     color: white;
